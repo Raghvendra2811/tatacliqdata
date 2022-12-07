@@ -1,4 +1,8 @@
-{ "data":[
+{ 
+  "users":[
+    
+  ],
+  "data":[
   {
     "id": "1",
     "department": "footwear",
@@ -420,7 +424,7 @@
   {
     "id": "39",
     "department": "beauty & grooming",
-    "category": "makeup",
+    "category": "hair",
     "img": "https://bit.ly/3zNeTKQ",
     "brand": "Revlon",
     "name": "Revlon 24HR Kajal Intense Black - 0.35 gm",
@@ -431,7 +435,7 @@
   {
     "id": "40",
     "department": "beauty & grooming",
-    "category": "makeup",
+    "category": "hair",
     "img": "https://bit.ly/3COVewb",
     "brand": "Faces Canada",
     "name": "Faces Canada Ultimate Pro HD Mini Whopper Lashes Mascara 5 gm",
@@ -695,18 +699,18 @@
   {
     "id": "64",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/3oiI4U1",
     "brand": "Boat",
     "name": "boAt Airdopes 138 T TWS Earbuds with Sleek Design, IWP, Type C Port (Active Black)",
     "strikedprice": "1209",
     "price": "1099",
-    "product_type": "earphones"
+    "product_type": "headsets"
   },
   {
     "id": "65",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/3CRA8x4",
     "brand": "Boat",
     "name": "boAt Rockerz 450 T Wireless Headphone with Immersive Audio & Upto 15H Playtime (Luscious Black)",
@@ -717,18 +721,18 @@
   {
     "id": "66",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/3ikFOYN",
     "brand": "Apple",
     "name": "Apple AirPods Pro Compatible with Siri (White)",
     "strikedprice": "23638",
     "price": "21489",
-    "product_type": "earphones"
+    "product_type": "headsets"
   },
   {
     "id": "67",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/3EZNBou",
     "brand": "Boat",
     "name": "boAt Rockerz 450 Pro T Bluetooth On-Ear Headphone with Mic (Black)",
@@ -739,18 +743,18 @@
   {
     "id": "68",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/39LJXjG",
     "brand": "Boat",
     "name": "boAt Rockerz 255 Pro T Wireless Earphone with ASAP Charge, Enhanced Bass & Bt V5.0 (Blazing Yellow)",
     "strikedprice": "1319",
     "price": "1199",
-    "product_type": "earphones"
+    "product_type": "headsets"
   },
   {
     "id": "69",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/3upyfVB",
     "brand": "Hammer",
     "name": "Hammer Bash Over The Ear Bluetooth Headphone With Mic (Black)",
@@ -761,18 +765,18 @@
   {
     "id": "70",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/3CYsJME",
     "brand": "Jbl",
     "name": "Jbl Tune T110Bt Bluetooth Earphone With Mic (Blue)",
     "strikedprice": "1649",
     "price": "1499",
-    "product_type": "earphones"
+    "product_type": "headsets"
   },
   {
     "id": "71",
     "department": "electronics",
-    "category": "headphones",
+    "category": "wearable Devices",
     "img": "https://bit.ly/2Yerl9L",
     "brand": "Audio-Technica",
     "name": "Audio-Technica ATH-M30x Headphones Black",
@@ -888,7 +892,7 @@
     "name": "ETA by Westside Dark Pink Slim Fit T-Shirt",
     "strikedprice": "1649",
     "price": "1499",
-    "product_type": "T-shirts & Polos"
+    "product_type": "T-shirts & Shirts"
   },
   {
     "id": "82",
@@ -899,7 +903,7 @@
     "name": "Lacoste Yellow L.12.12 Classic Fit",
     "strikedprice": "5280",
     "price": "4800",
-    "product_type": "T-shirts & Polos"
+    "product_type": "T-shirts & Shirts"
   },
   {
     "id": "83",
@@ -910,7 +914,7 @@
     "name": "WES Casuals by Westside Black Slim",
     "strikedprice": "1429",
     "price": "1299",
-    "product_type": "Shirts"
+    "product_type": "T-shirts & Shirts"
   },
   {
     "id": "84",
@@ -921,7 +925,7 @@
     "name": "WES Formals by Westside Olive",
     "strikedprice": "1099",
     "price": "999",
-    "product_type": "Shirts"
+    "product_type": "T-shirts & Shirts"
   },
   {
     "id": "85",
@@ -1075,7 +1079,7 @@
     "name": "boAt Airdopes 138 T TWS Earbuds",
     "strikedprice": "1209",
     "price": "1099",
-    "product_type": "Earphones"
+    "product_type": "headsets"
   },
   {
     "id": "99",
@@ -1097,7 +1101,7 @@
     "name": "Li'l Tomatoes Kids Orange Cotton",
     "strikedprice": "428",
     "price": "389",
-    "product_type": "T-shirts & Polos"
+    "product_type": "T-shirts & Shirts"
   },
   {
     "id": "101",
